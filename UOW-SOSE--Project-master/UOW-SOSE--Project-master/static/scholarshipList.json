@@ -1,0 +1,271 @@
+[
+  {
+    "id": 101,
+    "name": "2023 Engineering Excellence Scholarship",
+    "category": "Engineering",
+    "description": "The Engineering Excellence Scholarship supports outstanding engineering students at UOW by providing financial assistance and industry exposure.",
+    "openFrom": "20/May/2023 to 30/Jul/2023",
+    "value": "$8,000",
+    "duration": "One (1) Year",
+    "levelOfEnrolment": "Third Year",
+    "graduateType": "Undergraduate",
+    "numberAvailable": "Two (2)",
+    "yearOfScholarship": "2023",
+    "degree": "Bachelor of Engineering",
+    "offerType": "Scholarship",
+    "broadStudyArea": "Engineering",
+    "applicationCriteria": [
+      "Applicants must be enrolled in their third year of a Bachelor of Engineering in 2023.",
+      "Applicants must maintain a minimum Weighted Average Mark (WAM) of 70.",
+      "Applicants must submit a resume and a one-page essay on their engineering aspirations."
+    ]
+  },
+  {
+    "id": 102,
+    "name": "2023 Environmental Science Research Grant",
+    "category": "Science",
+    "description": "This grant aims to support environmental science students in conducting research projects that contribute to sustainability and environmental preservation.",
+    "openFrom": "10/Aug/2023 to 15/Oct/2023",
+    "value": "$5,000",
+    "duration": "Six (6) Months",
+    "levelOfEnrolment": "Honours",
+    "graduateType": "Undergraduate",
+    "numberAvailable": "Three (3)",
+    "yearOfScholarship": "2023",
+    "degree": "Bachelor of Environmental Science",
+    "offerType": "Grant",
+    "broadStudyArea": "Environmental Science",
+    "applicationCriteria": [
+      "Applicants must be enrolled in an honours program in Environmental Science in 2023.",
+      "Applicants must submit a research proposal outlining their project's objectives and expected outcomes."
+    ]
+  },
+  {
+    "name": "2023 Business Leadership Scholarship",
+    "category": "Business",
+    "description": "This scholarship recognizes and supports outstanding business students who demonstrate leadership potential.",
+    "openFrom": "01/Jun/2023 to 31/Aug/2023",
+    "value": "$12,000",
+    "duration": "Two (2) Years",
+    "levelOfEnrolment": "Second Year",
+    "graduateType": "Undergraduate",
+    "numberAvailable": "One (1)",
+    "yearOfScholarship": "2023",
+    "degree": "Bachelor of Business Administration",
+    "offerType": "Scholarship",
+    "broadStudyArea": "Business",
+    "applicationCriteria": [
+      "Applicants must be enrolled in their second year of a Bachelor of Business Administration in 2023.",
+      "Applicants must demonstrate leadership qualities through extracurricular activities and provide a leadership essay."
+    ]
+  },
+  {
+    "name": "2023 Nursing Excellence Award",
+    "category": "Health Sciences",
+    "description": "The Nursing Excellence Award is presented to exceptional nursing students who exhibit dedication and compassion in their studies and clinical practice.",
+    "openFrom": "15/Apr/2023 to 30/Jun/2023",
+    "value": "$6,500",
+    "duration": "One (1) Year",
+    "levelOfEnrolment": "Final Year",
+    "graduateType": "Undergraduate",
+    "numberAvailable": "Two (2)",
+    "yearOfScholarship": "2023",
+    "degree": "Bachelor of Nursing",
+    "offerType": "Award",
+    "broadStudyArea": "Nursing",
+    "applicationCriteria": [
+      "Applicants must be in their final year of the Bachelor of Nursing program in 2023.",
+      "Applicants must submit a letter of recommendation from a clinical instructor."
+    ]
+  },
+  {
+    "name": "2023 Computer Science Innovation Scholarship",
+    "category": "Computer Science",
+    "description": "This scholarship supports computer science students who demonstrate innovation and creativity in their projects.",
+    "openFrom": "05/Jul/2023 to 15/Sep/2023",
+    "value": "$9,000",
+    "duration": "One (1) Year",
+    "levelOfEnrolment": "Third Year",
+    "graduateType": "Undergraduate",
+    "numberAvailable": "Three (3)",
+    "yearOfScholarship": "2023",
+    "degree": "Bachelor of Computer Science",
+    "offerType": "Scholarship",
+    "broadStudyArea": "Computer Science",
+    "applicationCriteria": [
+      "Applicants must be enrolled in their third year of a Bachelor of Computer Science in 2023.",
+      "Applicants must submit a project proposal that showcases innovation in computer science."
+    ]
+  },
+  {
+    "name": "2023 Fine Arts Creative Grant",
+    "category": "Fine Arts",
+    "description": "This grant provides financial support to fine arts students pursuing creative projects in various art forms.",
+    "openFrom": "25/Aug/2023 to 30/Oct/2023",
+    "value": "$4,000",
+    "duration": "Six (6) Months",
+    "levelOfEnrolment": "Honours",
+    "graduateType": "Undergraduate",
+    "numberAvailable": "Four (4)",
+    "yearOfScholarship": "2023",
+    "degree": "Bachelor of Fine Arts",
+    "offerType": "Grant",
+    "broadStudyArea": "Fine Arts",
+    "applicationCriteria": [
+      "Applicants must be enrolled in an honours program in Fine Arts in 2023.",
+      "Applicants must provide a portfolio of their creative work and a project proposal."
+    ]
+  },
+  {
+    "name": "2023 Social Sciences Research Scholarship",
+    "category": "Social Sciences",
+    "description": "This scholarship supports social sciences students in conducting research projects that address pressing societal issues.",
+    "openFrom": "15/Jun/2023 to 30/Aug/2023",
+    "value": "$7,500",
+    "duration": "One (1) Year",
+    "levelOfEnrolment": "Fourth Year",
+    "graduateType": "Undergraduate",
+    "numberAvailable": "Two (2)",
+    "yearOfScholarship": "2023",
+    "degree": "Bachelor of Social Sciences",
+    "offerType": "Scholarship",
+    "broadStudyArea": "Social Sciences",
+    "applicationCriteria": [
+      "Applicants must be in their fourth year of a Bachelor of Social Sciences program in 2023.",
+      "Applicants must submit a research proposal addressing a significant societal issue."
+    ]
+  },
+  {
+    "name": "2023 Environmental Engineering Internship",
+    "category": "Engineering",
+    "description": "This internship opportunity offers environmental engineering students practical experience in the field of environmental sustainability.",
+    "openFrom": "10/Apr/2023 to 20/Jun/2023",
+    "value": "$7,000",
+    "duration": "Three (3) Months",
+    "levelOfEnrolment": "Second Year",
+    "graduateType": "Undergraduate",
+    "numberAvailable": "One (1)",
+    "yearOfScholarship": "2023",
+    "degree": "Bachelor of Environmental Engineering",
+    "offerType": "Internship",
+    "broadStudyArea": "Environmental Engineering",
+    "applicationCriteria": [
+      "Applicants must be enrolled in their second year of a Bachelor of Environmental Engineering in 2023.",
+      "Applicants must submit a cover letter and resume."
+    ]
+  },
+  {
+    "name": "2023 Music Performance Scholarship",
+    "category": "Music",
+    "description": "This scholarship supports talented music students pursuing excellence in performance and musical studies.",
+    "openFrom": "01/Mar/2023 to 15/May/2023",
+    "value": "$5,500",
+    "duration": "One (1) Year",
+    "levelOfEnrolment": "Third Year",
+    "graduateType": "Undergraduate",
+    "numberAvailable": "Three (3)",
+    "yearOfScholarship": "2023",
+    "degree": "Bachelor of Music",
+    "offerType": "Scholarship",
+    "broadStudyArea": "Music",
+    "applicationCriteria": [
+      "Applicants must be enrolled in their third year of a Bachelor of Music program in 2023.",
+      "Applicants must audition and provide a musical portfolio."
+    ]
+  },
+  {
+    "name": "2023 Mathematics Research Grant",
+    "category": "Science",
+    "description": "This grant supports mathematics students in conducting research projects that advance mathematical knowledge and applications.",
+    "openFrom": "15/Jul/2023 to 30/Sep/2023",
+    "value": "$6,000",
+    "duration": "One (1) Year",
+    "levelOfEnrolment": "Fourth Year",
+    "graduateType": "Undergraduate",
+    "numberAvailable": "Two (2)",
+    "yearOfScholarship": "2023",
+    "degree": "Bachelor of Mathematics",
+    "offerType": "Grant",
+    "broadStudyArea": "Mathematics",
+    "applicationCriteria": [
+      "Applicants must be in their fourth year of a Bachelor of Mathematics program in 2023.",
+      "Applicants must submit a research proposal in the field of mathematics."
+    ]
+  },
+  {
+    "name": "2023 Visual Communication Design Award",
+    "category": "Design",
+    "description": "This award recognizes excellence in visual communication design and supports students in pursuing creative design projects.",
+    "openFrom": "10/May/2023 to 20/Jul/2023",
+    "value": "$4,500",
+    "duration": "Six (6) Months",
+    "levelOfEnrolment": "Honours",
+    "graduateType": "Undergraduate",
+    "numberAvailable": "Two (2)",
+    "yearOfScholarship": "2023",
+    "degree": "Bachelor of Design",
+    "offerType": "Award",
+    "broadStudyArea": "Design",
+    "applicationCriteria": [
+      "Applicants must be enrolled in an honours program in Design in 2023.",
+      "Applicants must provide a design portfolio and a project proposal."
+    ]
+  },
+  {
+    "name": "2023 Psychology Research Scholarship",
+    "category": "Psychology",
+    "description": "This scholarship supports psychology students in conducting research projects that contribute to the understanding of human behavior and mental health.",
+    "openFrom": "20/Aug/2023 to 30/Oct/2023",
+    "value": "$7,000",
+    "duration": "One (1) Year",
+    "levelOfEnrolment": "Fourth Year",
+    "graduateType": "Postgraduate",
+    "numberAvailable": "Three (3)",
+    "yearOfScholarship": "2023",
+    "degree": "Bachelor of Psychology",
+    "offerType": "Scholarship",
+    "broadStudyArea": "Psychology",
+    "applicationCriteria": [
+      "Applicants must be in their fourth year of a Bachelor of Psychology program in 2023.",
+      "Applicants must submit a research proposal in the field of psychology."
+    ]
+  },
+  {
+    "name": "2023 Sports Management Internship",
+    "category": "Sports Management",
+    "description": "This internship provides sports management students with hands-on experience in the sports industry.",
+    "openFrom": "05/Apr/2023 to 15/Jun/2023",
+    "value": "$6,500",
+    "duration": "Three (3) Months",
+    "levelOfEnrolment": "Second Year",
+    "graduateType": "Undergraduate",
+    "numberAvailable": "One (1)",
+    "yearOfScholarship": "2023",
+    "degree": "Bachelor of Sports Management",
+    "offerType": "Internship",
+    "broadStudyArea": "Sports Management",
+    "applicationCriteria": [
+      "Applicants must be enrolled in their second year of a Bachelor of Sports Management in 2023.",
+      "Applicants must submit a cover letter and resume."
+    ]
+  },
+  {
+    "name": "2023 Economics Research Grant",
+    "category": "Economics",
+    "description": "This grant supports economics students in conducting research projects that contribute to economic theory and policy.",
+    "openFrom": "10/Jun/2023 to 20/Aug/2023",
+    "value": "$6,000",
+    "duration": "One (1) Year",
+    "levelOfEnrolment": "Fourth Year",
+    "graduateType": "Undergraduate",
+    "numberAvailable": "Two (2)",
+    "yearOfScholarship": "2023",
+    "degree": "Bachelor of Economics",
+    "offerType": "Grant",
+    "broadStudyArea": "Economics",
+    "applicationCriteria": [
+      "Applicants must be in their fourth year of a Bachelor of Economics program in 2023.",
+      "Applicants must submit a research proposal in the field of economics."
+    ]
+  }
+]

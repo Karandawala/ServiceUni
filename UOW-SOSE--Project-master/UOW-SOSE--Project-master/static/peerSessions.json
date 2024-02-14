@@ -1,0 +1,101 @@
+[
+  {
+    "id": 2,
+    "name": "Introduction to Machine Learning",
+    "subCode": "CSIT992",
+    "subname": "Artificial Intelligence",
+    "description": "Learn the basics of machine learning and its applications.",
+    "numberPeer": 15,
+    "location": "Computer Science Building, Room 202",
+    "Date": "2023/10/15",
+    "Time": "2:30 PM"
+  },
+  {
+    "id": 3,
+    "name": "Web Development Workshop",
+    "subCode": "CSIT993",
+    "subname": "Software Engineering",
+    "description": "Hands-on workshop on building web applications.",
+    "numberPeer": 20,
+    "location": "Engineering Building, Lab 101",
+    "Date": "2023/10/20",
+    "Time": "10:00 AM"
+  },
+  {
+    "id": 4,
+    "name": "Data Science Seminar",
+    "subCode": "CSIT994",
+    "subname": "Data Science",
+    "description": "Exploring the latest trends and techniques in data science.",
+    "numberPeer": 30,
+    "location": "Data Science Center, Auditorium",
+    "Date": "2023/10/25",
+    "Time": "3:45 PM"
+  },
+  {
+    "id": 5,
+    "name": "Cybersecurity Symposium",
+    "subCode": "CSIT995",
+    "subname": "Cybersecurity",
+    "description": "Discussing cybersecurity threats and prevention strategies.",
+    "numberPeer": 50,
+    "location": "Security Building, Conference Room",
+    "Date": "2023/11/5",
+    "Time": "9:15 AM"
+  },
+  {
+    "id": 6,
+    "name": "Digital Marketing Workshop",
+    "subCode": "CSIT996",
+    "subname": "Marketing Technology",
+    "description": "Learn digital marketing strategies and tools.",
+    "numberPeer": 25,
+    "location": "Marketing Building, Seminar Hall",
+    "Date": "2023/11/10",
+    "Time": "1:00 PM"
+  },
+  {
+    "id": 7,
+    "name": "Cloud Computing Conference",
+    "subCode": "CSIT997",
+    "subname": "Cloud Computing",
+    "description": "Exploring the future of cloud computing technology.",
+    "numberPeer": 40,
+    "location": "Cloud Tech Center, Grand Ballroom",
+    "Date": "2023/11/15",
+    "Time": "10:30 AM"
+  },
+  {
+    "id": 8,
+    "name": "Mobile App Development",
+    "subCode": "CSIT998",
+    "subname": "Software Development",
+    "description": "Hands-on workshop on building mobile applications.",
+    "numberPeer": 18,
+    "location": "Engineering Building, Lab 105",
+    "Date": "2023/11/20",
+    "Time": "2:00 PM"
+  },
+  {
+    "id": 9,
+    "name": "Big Data Analytics Seminar",
+    "subCode": "CSIT999",
+    "subname": "Data Science",
+    "description": "Exploring big data analytics tools and techniques.",
+    "numberPeer": 35,
+    "location": "Data Science Center, Room 301",
+    "Date": "2023/12/2",
+    "Time": "4:30 PM"
+  },
+  {
+    "id": 10,
+    "name": "Artificial Intelligence Symposium",
+    "subCode": "CSIT1000",
+    "subname": "Artificial Intelligence",
+    "description": "Discussing advancements in AI research and applications.",
+    "numberPeer": 60,
+    "location": "AI Research Institute, Auditorium",
+    "Date": "2023/12/8",
+    "Time": "11:00 AM"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "status": "approved",
+    "fname": "John Doe",
+    "email": "johndoe@email.com",
+    "resume": "john_doe_resume.pdf",
+    "resumelink": "https://www.example.com/resumes/john_doe_resume.pdf",
+    "coverLetter": "john_doe_cover_letter.pdf",
+    "coverletterLink": "https://www.example.com/cover_letters/john_doe_cover_letter.pdf",
+    "description": "I am a passionate student who aspires to make a positive impact in the world. My academic achievements and dedication to community service drive my ambition to excel and contribute to society."
+  },
+  {
+    "status": "approved",
+    "fname": "Alice Smith",
+    "email": "alice.smith@email.com",
+    "resume": "alice_smith_resume.pdf",
+    "resumelink": "https://www.example.com/resumes/alice_smith_resume.pdf",
+    "coverLetter": "alice_smith_cover_letter.pdf",
+    "coverletterLink": "https://www.example.com/cover_letters/alice_smith_cover_letter.pdf",
+    "description": "I am a dedicated student with a strong passion for environmental conservation. My academic background in biology and my volunteer work with local environmental organizations have fueled my commitment to protecting our planet."
+  },
+  {
+    "id": 101,
+    "status": "pending",
+    "fname": "Michael Brown",
+    "email": "michael.brown@email.com",
+    "resume": "michael_brown_resume.pdf",
+    "resumelink": "https://www.example.com/resumes/michael_brown_resume.pdf",
+    "coverLetter": "michael_brown_cover_letter.pdf",
+    "coverletterLink": "https://www.example.com/cover_letters/michael_brown_cover_letter.pdf",
+    "description": "I am a dedicated student athlete with a strong focus on sports management. My academic pursuits and experience as a team captain have prepared me to excel in the field of sports administration."
+  },
+  {
+    "status": "rejected",
+    "fname": "Sarah Johnson",
+    "email": "sarah.johnson@email.com",
+    "resume": "sarah_johnson_resume.pdf",
+    "resumelink": "https://www.example.com/resumes/sarah_johnson_resume.pdf",
+    "coverLetter": "sarah_johnson_cover_letter.pdf",
+    "coverletterLink": "https://www.example.com/cover_letters/sarah_johnson_cover_letter.pdf",
+    "description": "I am a dedicated student pursuing a degree in computer science. My passion for coding and technology drives me to develop innovative solutions that can benefit society."
+  },
+  {
+    "status": "approved",
+    "fname": "David Williams",
+    "email": "david.williams@email.com",
+    "resume": "david_williams_resume.pdf",
+    "resumelink": "https://www.example.com/resumes/david_williams_resume.pdf",
+    "coverLetter": "david_williams_cover_letter.pdf",
+    "coverletterLink": "https://www.example.com/cover_letters/david_williams_cover_letter.pdf",
+    "description": "I am a dedicated student with a strong interest in economics and finance. My academic achievements and internships in financial institutions have prepared me to contribute to the financial industry."
+  },
+  {
+    "status": "pending",
+    "fname": "Emily Davis",
+    "email": "emily.davis@email.com",
+    "resume": "emily_davis_resume.pdf",
+    "resumelink": "https://www.example.com/resumes/emily_davis_resume.pdf",
+    "coverLetter": "emily_davis_cover_letter.pdf",
+    "coverletterLink": "https://www.example.com/cover_letters/emily_davis_cover_letter.pdf",
+    "description": "I am a dedicated student pursuing a degree in literature. My passion for storytelling and literature analysis drives my ambition to become a published author and literary critic."
+  },
+  {
+    "status": "rejected",
+    "fname": "Robert Martinez",
+    "email": "robert.martinez@email.com",
+    "resume": "robert_martinez_resume.pdf",
+    "resumelink": "https://www.example.com/resumes/robert_martinez_resume.pdf",
+    "coverLetter": "robert_martinez_cover_letter.pdf",
+    "coverletterLink": "https://www.example.com/cover_letters/robert_martinez_cover_letter.pdf",
+    "description": "I am a dedicated student pursuing a degree in engineering. My academic achievements and experience in engineering projects have prepared me to contribute to the field of sustainable energy solutions."
+  },
+  {
+    "status": "approved",
+    "fname": "Olivia Taylor",
+    "email": "olivia.taylor@email.com",
+    "resume": "olivia_taylor_resume.pdf",
+    "resumelink": "https://www.example.com/resumes/olivia_taylor_resume.pdf",
+    "coverLetter": "olivia_taylor_cover_letter.pdf",
+    "coverletterLink": "https://www.example.com/cover_letters/olivia_taylor_cover_letter.pdf",
+    "description": "I am a dedicated student with a strong interest in art and design. My artistic talents and passion for creative expression drive my ambition to become a professional artist and designer."
+  },
+  {
+    "id": 102,
+    "status": "pending",
+    "fname": "Daniel Johnson",
+    "email": "daniel.johnson@email.com",
+    "resume": "daniel_johnson_resume.pdf",
+    "resumelink": "https://www.example.com/resumes/daniel_johnson_resume.pdf",
+    "coverLetter": "daniel_johnson_cover_letter.pdf",
+    "coverletterLink": "https://www.example.com/cover_letters/daniel_johnson_cover_letter.pdf",
+    "description": "I am a dedicated student pursuing a degree in medicine. My passion for healthcare and my volunteer work in medical clinics have prepared me to contribute to the field of medicine."
+  },
+  {
+    "status": "rejected",
+    "fname": "Sophia Brown",
+    "email": "sophia.brown@email.com",
+    "resume": "sophia_brown_resume.pdf",
+    "resumelink": "https://www.example.com/resumes/sophia_brown_resume.pdf",
+    "coverLetter": "sophia_brown_cover_letter.pdf",
+    "coverletterLink": "https://www.example.com/cover_letters/sophia_brown_cover_letter.pdf",
+    "description": "I am a dedicated student with a strong interest in environmental science. My academic background and research in environmental issues have prepared me to address the challenges of climate change."
+  }
+]
